@@ -7,3 +7,5 @@ Text that is not a quote
 > Text that is a quote
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
