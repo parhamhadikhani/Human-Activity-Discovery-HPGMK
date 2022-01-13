@@ -21,12 +21,17 @@ The workflow of the proposed method is as follows. First, keyframes are selected
 ![arch](/Figures/fig-2.jpg)
 
 
+### Run
+
 
 
 ### Results
-* 3D Action Classification Results
-![arch](images/results_classification.png)
+* The average accuracy for all subjects in (a) CAD-60, (b) UTk, and (c) F3D
+* 
+![arch](/Figures/accu.jpg)
 
-* 3D Action  Retrieval Results
-![arch](images/results_retrieval.png)
+* Comparison of confusion matrix of CAD-60 on subject 1.
+
+![arch](/Figures/fig-9.jpg)
+
 
