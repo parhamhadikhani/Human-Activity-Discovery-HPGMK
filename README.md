@@ -22,7 +22,8 @@ The workflow of the proposed method is as follows. First, keyframes are selected
 
 
 ### Run
-
+To run the program and achieve the results, set address for save_path in MAIN.py to reach folder Data and Results and then run MAIN.py
+### Details
 
 
 ### Results
