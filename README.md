@@ -1,38 +1,11 @@
 # Human-Activity-Discovery-HPGMK
 Human Activity Discovery Using Particle Swarm Optimization with Gaussian Mutation
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@parhamhadikhani 
-fmthoker
-/
-skeleton-contrast
-Public
-Code
-Issues
-2
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-skeleton-contrast/README.md
-@fmthoker
-fmthoker Update README.md
-Latest commit 48347ae on Aug 10, 2021
- History
- 1 contributor
-76 lines (57 sloc)  2.98 KB
+
    
 # Skeleton-Contrastive 3D Action Representation Learning
 
-![arch](images/teaser.png)
+![arch](/Figures/fig-2.jpg)
 
 This repository contains the implementation of our ACM MultiMedia 2021 paper:
 
