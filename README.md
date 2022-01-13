@@ -1,12 +1,23 @@
 # Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation
-Human Activity Discovery Using Particle Swarm Optimization with Gaussian Mutation
+```BibTeX
+@misc{duan2021revisiting,
+      title={Revisiting Skeleton-based Action Recognition},
+      author={Haodong Duan and Yue Zhao and Kai Chen and Dian Shao and Dahua Lin and Bo Dai},
+      year={2021},
+      eprint={2104.13586},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
+## Introduction
 
-   
-# Skeleton-Contrastive 3D Action Representation Learning
+We release the skeleton annotations used in [Revisiting Skeleton-based Action Recognition](https://arxiv.org/abs/2104.13586). By default, we use [Faster-RCNN](https://github.com/open-mmlab/mmdetection/blob/master/configs/faster_rcnn/faster_rcnn_r50_caffe_fpn_mstrain_1x_coco-person.py) with ResNet50 backbone for human detection and [HRNet-w32](https://github.com/open-mmlab/mmpose/blob/master/configs/top_down/hrnet/coco/hrnet_w32_coco_256x192.py) for single person pose estimation. For FineGYM, we use Ground-Truth bounding boxes for the athlete instead of detection bounding boxes. Currently, we release the skeleton annotations for FineGYM and NTURGB-D Xsub split. Other annotations will be soo released.
+
 
 ![arch](/Figures/fig-2.jpg)
 
+## Prepare Annotations
 This repository contains the implementation of our ACM MultiMedia 2021 paper:
 
 * inter-skeleton contrastive  pretraining
