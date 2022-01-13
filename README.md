@@ -1,4 +1,4 @@
-# Human-Activity-Discovery-HPGMK
+# Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation
 Human Activity Discovery Using Particle Swarm Optimization with Gaussian Mutation
 
 
