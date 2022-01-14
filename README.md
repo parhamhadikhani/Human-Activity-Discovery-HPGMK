@@ -1,10 +1,10 @@
 # Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation
 ```BibTeX
-@misc{duan2021revisiting,
-      title={Revisiting Skeleton-based Action Recognition},
-      author={Haodong Duan and Yue Zhao and Kai Chen and Dian Shao and Dahua Lin and Bo Dai},
-      year={2021},
-      eprint={2104.13586},
+@misc{...,
+      title={...},
+      author={....},
+      year={2022},
+      eprint={...},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
