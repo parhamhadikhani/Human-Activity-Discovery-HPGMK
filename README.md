@@ -8,7 +8,7 @@ Please cite our paper when you use this code in your research.
   journal   = {arXiv:2201.05314},
   year      = {2022},
 }
-
+```
 ## Introduction
 
 This repository contains the implementation of our proposed method for [human activity discovery](). Human activity discovery aims to distinguish the activities performed by humans, without any prior information of what defines each activities. 
@@ -25,7 +25,7 @@ To run the program and achieve the results, set address for save_path in MAIN.py
 
 ### Results
 * The average accuracy for all subjects in (a) CAD-60, (b) UTk, and (c) F3D
-* 
+
 ![arch](/Figures/accu.jpg)
 
 * Comparison of confusion matrix of CAD-60 on subject 1.
