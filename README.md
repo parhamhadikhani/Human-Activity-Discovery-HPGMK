@@ -24,7 +24,7 @@ The workflow of the proposed method is as follows. First, keyframes are selected
 To run the program and achieve the results, set address for save_path in MAIN.py to reach folder Data and Results and then run MAIN.py
 
 ### Results
-* The average accuracy for all subjects in (a) CAD-60, (b) UTk, and (c) F3D
+* The average accuracy for all subjects in (a) CAD-60, (b) UTk, and (c) F3D (d) florence 3d, (e) florence 3d
 
 ![arch](/Figures/accu.jpg)
 
