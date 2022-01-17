@@ -11,7 +11,7 @@ Please cite our paper when you use this code in your research.
 ```
 ## Introduction
 
-This repository contains the implementation of our proposed method for [human activity discovery](). Human activity discovery aims to distinguish the activities performed by humans, without any prior information of what defines each activities. 
+This repository contains the implementation of our proposed method for [human activity discovery](https://arxiv.org/abs/2201.05314). Human activity discovery aims to distinguish the activities performed by humans, without any prior information of what defines each activities. 
 
 ![arch](/Figures/fig-1.jpg)
 
