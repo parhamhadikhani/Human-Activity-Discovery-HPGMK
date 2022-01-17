@@ -1,14 +1,13 @@
 # Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation
-```BibTeX
-@misc{...,
-      title={...},
-      author={....},
-      year={2022},
-      eprint={...},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+
+Please cite our paper when you use this code in your research.
 ```
+@article{...,
+  author    = {Parham Hadikhani, Daphne Teck Ching Lai, and Wee-Hong Ong},
+  title     = {A Novel Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation},
+  journal   = {arXiv:2201.05314},
+  year      = {2022},
+}
 
 ## Introduction
 
