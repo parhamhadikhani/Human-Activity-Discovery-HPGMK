@@ -21,7 +21,7 @@ The workflow of the proposed method is as follows. First, keyframes are selected
 
 
 ### Run
-To run the program and achieve the results, set address for save_path in MAIN.py to reach folder Data and Results and then run MAIN.py
+To run the program and get the results, set the save_path address in MAIN.py to reach the Data and Results folder and then run MAIN.py.
 
 ### Results
 * The average accuracy for all subjects in (a) CAD-60, (b) UTKinect-Action3D, and (c) Florence3D (d) KARD, (e) MSR DailyActivity3D
