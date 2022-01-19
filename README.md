@@ -2,11 +2,13 @@
 
 Please cite our paper when you use this code in your research.
 ```
-@article{...,
-  author    = {Parham Hadikhani, Daphne Teck Ching Lai, and Wee-Hong Ong},
-  title     = {A Novel Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation},
-  journal   = {arXiv:2201.05314},
-  year      = {2022},
+@misc{hadikhani2022novel,
+      title={A Novel Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation}, 
+      author={Parham Hadikhani and Daphne Teck Ching Lai and Wee-Hong Ong},
+      year={2022},
+      eprint={2201.05314},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 ## Introduction
